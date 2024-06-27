@@ -18,15 +18,6 @@
 - only one way communication (server to client)
 - simple to implement and use compared to WebSockets. It’s built on standard HTTP protocols and doesn’t require special handling for connections.
 
-## Example use cases
-
-App needs to receive real-time data, but doesn't send frequent updates to server
-
-- real-time notifications
-- news feed
-- monitoring dashboards (IoT, sensors, device load, etc.)
-- read-only chat
-
 ## Resources
 
 - MDN docs: https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
